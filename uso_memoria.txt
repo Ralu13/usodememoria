@@ -1,4 +1,4 @@
-Marca de Tiempo, Uso de Memoria (%)
+Marca de Tiempo,Uso de Memoria (%)
 14:21:03, 86.6
 14:21:04, 86.4
 14:21:05, 86.3
